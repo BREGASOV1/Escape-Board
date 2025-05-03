@@ -49,4 +49,4 @@ cd ( folder path where you want the game file to be)
 git clone https://github.com/BREGASOV1/Escape-Board
 > Wait until finish then open the path you have entered.
 > Open the file with .sln
-> I wil upload a ZIP file named Setup contains it as setup file so you can play without Visual Studio.
+> I wil upload a ZIP file contains it as setup file so you can play without Visual Studio.
