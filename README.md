@@ -1,13 +1,14 @@
 **Escape-Board**
-It is party game where players try to escape the jungle because of the esplosive volcano. It depends on your dice luck, only one will escape.
+>It is party game where players try to escape the jungle because of the esplosive volcano.
+>It depends on your dice luck, only one will escape.
 
 **Features**
 
- You can add up to 4 players
- You can choose your avatar ( 6 available)
- You can choose your name
- Game Statistics will be recorder so you can review each move in the game.
- Player Statistics will be available
+> You can add up to 4 players
+> You can choose your avatar ( 6 available)
+> You can choose your name
+> Game Statistics will be recorder so you can review each move in the game.
+> Player Statistics will be available
 
 **Game Guide** 
 
