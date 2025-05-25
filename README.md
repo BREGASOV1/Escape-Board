@@ -1,35 +1,61 @@
 **Escape-Board**
+
 >It is party game where players try to escape the jungle because of the esplosive volcano.
+
 >It depends on your dice luck, only one will escape.
+
 
 **Features**
 
 > You can add up to 4 players
+
 > You can choose your avatar ( 6 available)
+
 > You can choose your name
+
 > Game Statistics will be recorder so you can review each move in the game.
+
 > Player Statistics will be available
+
+
 
 **Game Guide** 
 
+
 > You start by enerting players details (2 to 4)
+
 > You can test it alone by choosing only 1 player.
+
 > Roll the Dice and next player name label color will be Orange so you know who will play.
+
 > there are steps that have events (lions, Owl, Bears, Eagle, Crocodile)
+
 > The step with special events will be animals beside it.
+
 > Lions may attack you or may give you a shield depending on your luck.
+
 > Bears always attack and move you 3 steps backward.
+
 > Owl ask you a quiz if you answer wrong you will move 6 steps backward, if you answer right nothing will happen ( General Quiz)
+
 > Eagle will carry you 3 steps forward.
+
 > Crocodile will attack you and move you 1 steps backward.
+
 > Once you reach the end of the Board you will escape.
+
 > Once a Win happens, Game Board will reset but Statistics will be saved. 
 
 
+
 **Programming Concepts**
+
 > This Game do not have OOP in my code except the Windows Form built-in OOP.
+
 > I used C# on Visual Studio 2022.
+
 > I used Windows Form ( .Net Framwork)
+
 > I made the tecnique of moving forward or backward using Picture Boxes, it is not the best idea, but depending on my learning I used it.
 
 
